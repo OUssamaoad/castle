@@ -1,0 +1,82 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_F7B85A90_ED11_7054_41CE_A647129EA1C2.url = //www.youtube.com/embed/oxho-Fxb8wE?si=bb4EZgh7Y-mcPtQR
+PopupWebFrameBehaviour_DCBA6850_ED11_102C_41C5_76A77B70F807.url = //www.youtube.com/embed/oxho-Fxb8wE?si=bb4EZgh7Y-mcPtQR
+
+## Media
+
+### Title
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_0.label = A_00000
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_1.label = A_00112
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_2.label = A_00224
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_3.label = A_00336
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_4.label = A_00448
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_5.label = A_00560
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_6.label = A_00672
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_7.label = A_00785
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_8.label = A_00902
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_9.label = A_01014
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_10.label = A_01126
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_11.label = A_01243
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_12.label = A_01365
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_13.label = A_01498
+panorama_E1C2851E_ECF3_11A9_41E5_118C22E83EB2.label = P_1 - Panorama
+panorama_E0E6126A_ECF3_1068_41D1_C7105D01E80D.label = P_10 - Panorama
+panorama_E0E7C5A6_ECF3_10E5_41E9_3495652405ED.label = P_11 - Panorama
+panorama_E0E7C8E3_ECF3_1065_41DD_D72B7BF00FB3.label = P_12 - Panorama
+panorama_E0EB2889_ECF3_10A8_41E4_CA81BBC246EF.label = P_2 - Panorama
+panorama_E0E61BA6_ECF3_10EF_41E8_006B8C55FB83.label = P_3 - Panorama
+panorama_E0E66EB3_ECF3_10EB_41D2_0EBD83EE1CFC.label = P_4 - Panorama
+panorama_E0E621E0_ECF3_3061_41E1_4B405AB7FD77.label = P_5 - Panorama
+panorama_E0E6353B_ECF3_31EF_41D9_2A7C65797A5F.label = P_6 - Panorama
+panorama_E0E7F877_ECF3_306A_41C9_8354041E4A7A.label = P_7 - Panorama
+panorama_E0E63BC3_ECF3_309E_41EA_BBB0C1DD5881.label = P_8 - Panorama
+panorama_E0E7EF0F_ECF3_31BE_41DB_ECF5665C9EEC.label = P_9 - Panorama
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21.label = Photo Album A_00000
+album_F18B0758_ED11_10DB_41DB_3B2FC878AB21_14.label = T
+
+## Skin
+
+### Button
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Contact Information
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Contact Information
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Panorama List
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Panorama List
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Photoalbum
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Photoalbum
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = VIDEO
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = VIDEO
+
+### Image
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_en.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_en.png
+Image_BD873AD4_9478_3C4B_41E1_8CD5E779D6D2.url = skin/Image_BD873AD4_9478_3C4B_41E1_8CD5E779D6D2_en.jpg
+Image_BD873AD4_9478_3C4B_41E1_8CD5E779D6D2_mobile.url = skin/Image_BD873AD4_9478_3C4B_41E1_8CD5E779D6D2_mobile_en.jpg
+Image_BD87AAD4_9478_3C4B_41BE_0345EF6421AD.url = skin/Image_BD87AAD4_9478_3C4B_41BE_0345EF6421AD_en.jpg
+Image_BD87AAD4_9478_3C4B_41BE_0345EF6421AD_mobile.url = skin/Image_BD87AAD4_9478_3C4B_41BE_0345EF6421AD_mobile_en.jpg
+
+### Label
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = 3D Designer
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = 3D Designer
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = OUSSAMA LAMRANI
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = OUSSAMA LAMRANI
+
+### Multiline Text
+HTMLText_BD872AD4_9478_3C4B_41E0_004DEE953DF2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.2999999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.3vw;font-family:'Oswald';"><B><I>OUSSAMA LAMRANI</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2999999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.3vw;font-family:'Oswald';"><I>3d Designer</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.61vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2999999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.3vw;font-family:'Oswald';"><I>Tlf.: +212 64 999 50 16</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2999999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.3vw;font-family:'Oswald';"><I>osamalamrani7@gmail.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.3vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.61vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">A3d Designer specializes in conceptualizing, modeling, and visualizing three-dimensional spaces. The job includes:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.72vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">3D Modeling &amp; Rendering: Creating realistic 3D visualizations for interior, exterior, and event spaces.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.72vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Spatial Planning: Optimizing layouts for efficiency, aesthetics, and user interaction.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.72vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Event &amp; Exhibition Design: Developing immersive experiences for events, trade shows, and installations.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.72vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Material &amp; Texture Selection: Choosing suitable materials and finishes to enhance design quality.</SPAN></SPAN></DIV></div>
+HTMLText_BD872AD4_9478_3C4B_41E0_004DEE953DF2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.2999999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.3vw;font-family:'Oswald';"><B><I>OUSSAMA LAMRANI</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2999999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.3vw;font-family:'Oswald';"><I>3d Designer</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.61vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2999999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.3vw;font-family:'Oswald';"><I>Tlf.: +212 64 999 50 16</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2999999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.3vw;font-family:'Oswald';"><I>osamalamrani7@gmail.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.3vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.61vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">A3d Designer specializes in conceptualizing, modeling, and visualizing three-dimensional spaces. The job includes:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.72vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">3D Modeling &amp; Rendering: Creating realistic 3D visualizations for interior, exterior, and event spaces.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.72vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Spatial Planning: Optimizing layouts for efficiency, aesthetics, and user interaction.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.72vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Event &amp; Exhibition Design: Developing immersive experiences for events, trade shows, and installations.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.72vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.38vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Material &amp; Texture Selection: Choosing suitable materials and finishes to enhance design quality.</SPAN></SPAN></DIV></div>
+HTMLText_BD876AD4_9478_3C4B_41D6_3C886AE845B6_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.28vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.28vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.690000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.69vh;font-family:'Oswald';"><B><I>ABOUT ME</I></B></SPAN></SPAN></DIV></div>
+HTMLText_BD876AD4_9478_3C4B_41D6_3C886AE845B6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.28vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.28vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.690000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.69vh;font-family:'Oswald';"><B><I>ABOUT ME</I></B></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 7
